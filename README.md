@@ -20,6 +20,6 @@
 
 <br />
 
-[linkedin]: https://www.linkedin.com/in/anas-abbasi-4857b2219/
+[linkedin]: https://www.linkedin.com/in/developeranas/
 [instagram]: https://www.instagram.com/webdev_anas17/
 [twitter]: https://twitter.com/WebdevAnas
